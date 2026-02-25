@@ -1,0 +1,153 @@
+Pros of AI
+1. Automation of Repetitive Tasks
+
+AI can handle routine, time-consuming work such as data entry, scheduling, quality checks, and customer support chat.
+
+Increases productivity
+
+Reduces human error
+
+Frees people for creative and strategic tasks
+
+2. Faster & Smarter Decision-Making
+
+AI analyzes massive datasets in seconds.
+
+Detects patterns humans may miss
+
+Supports business forecasting
+
+Improves medical diagnosis accuracy
+
+Example: AI systems help doctors detect diseases from medical images earlier than traditional methods.
+
+3. 24/7 Availability
+
+AI systems don’t need sleep.
+
+Chatbots provide constant customer support
+
+Monitoring systems detect fraud or cyber threats in real time
+
+4. Personalization
+
+AI powers recommendation systems:
+
+Netflix suggests shows
+
+Amazon recommends products
+
+Spotify creates personalized playlists
+
+This improves user experience and engagement.
+
+5. Advances in Healthcare
+
+AI contributes to:
+
+Drug discovery
+
+Early disease detection
+
+Robotic surgery assistance
+
+Predictive health monitoring
+
+6. Increased Safety
+
+AI can perform dangerous tasks:
+
+Bomb disposal robots
+
+Mining automation
+
+Self-driving technology
+
+Disaster response drones
+
+7. Innovation & New Industries
+
+AI creates entirely new career paths:
+
+Machine learning engineers
+
+Data scientists
+
+AI ethicists
+
+Cons of AI
+1. Job Displacement
+
+Automation may replace certain jobs:
+
+Manufacturing
+
+Retail checkout
+
+Basic customer service
+
+Data processing
+
+This can increase unemployment in some sectors.
+
+2. High Development Costs
+
+Building and maintaining AI systems:
+
+Requires expensive infrastructure
+
+Needs skilled professionals
+
+Demands continuous updates
+
+3. Bias & Ethical Issues
+
+AI systems can reflect biases present in training data.
+
+Discriminatory hiring tools
+
+Biased facial recognition
+
+Unequal loan approval systems
+
+4. Privacy Concerns
+
+AI often relies on large amounts of personal data.
+
+Surveillance concerns
+
+Data misuse risks
+
+Tracking user behavior
+
+5. Lack of Human Judgment
+
+AI lacks:
+
+Emotional intelligence
+
+Moral reasoning
+
+Contextual understanding
+
+In sensitive situations (legal, medical, social), human oversight is still essential.
+
+6. Security Risks
+
+AI can be misused for:
+
+Deepfakes
+
+Automated cyberattacks
+
+Autonomous weapons
+
+7. Overdependence on Technology
+
+Heavy reliance on AI may:
+
+Reduce human skills
+
+Create vulnerability if systems fail
+
+Concentrate power in tech companies

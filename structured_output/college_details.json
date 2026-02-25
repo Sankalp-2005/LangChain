@@ -1,0 +1,11 @@
+{
+    "title": "college_details",
+    "description":"Details of the college",
+    "type":"object",
+    "properties":{
+        "college_name":"string",
+        "college_established_year":"integer",
+        "college_location":"string"
+    },
+    "required":["college_name","college_location"]
+}

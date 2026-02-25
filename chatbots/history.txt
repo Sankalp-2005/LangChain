@@ -1,0 +1,5 @@
+HumanMessage(content='hello')
+AIMessage(content='Hello. How can I help you today?)
+HumanMessage(content='what is Dos Attact')
+AIMessage(content='A DoS (Denial of Service) attack is a cyberattack where an attacker attempts to make a computer or network resource unavailable by overwhelming it with traffic, data, or requests. This can cause the system to slow down or crash, making it inaccessible to legitimate users.') HumanMessage(content='who does it?') 
+AIMessage(content='DoS attacks are typically carried out by:\n\n1. Hackers\n2. Cybercriminals\n3. Script kiddies (inexperienced hackers)\n4. Nation-state actors\n5. Ransomware attackers\n6. Competitors or disgruntled individuals seeking revenge\n\nThey often use botnets (networks of compromised devices) to launch the attack.')
