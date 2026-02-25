@@ -22,34 +22,7 @@ This repository focuses on **modern LangChain architecture (Runnable-based)** in
 
 ---
 
-# Repository Overview
 
-This project is organized into **modular topics**, each representing a major component of LangChain.
-
-```
-langchain/
-│
-├── chatmodels/
-├── prompts/
-├── chatbots/
-├── output_parsers/
-├── document_loader/
-│
-├── runnables/
-├── chains/
-├── tools/
-├── tool_calling/
-│
-├── text_splitters/
-├── vector_stores/
-├── retrievers_source_based/
-├── retrievers_strategy_based/
-│
-├── structured_output/
-├── rag/
-│
-└── README.md
-```
 
 Each folder contains:
 
